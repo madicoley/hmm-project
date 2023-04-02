@@ -92,3 +92,13 @@ img {
     visibility: visible;
     opacity: 1;
   }
+
+
+  .title_name {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f6ddd1;
+    padding: 20px;
+    font-size: 800;
+
+  }
+  .col-md-6 p { padding: 0 45px; }
