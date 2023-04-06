@@ -1,0 +1,53 @@
+.background {
+    background-image: url('background_image.jpg');
+    background-size: cover;
+}
+
+
+.header {
+    display: grid;
+}
+
+.navbar {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 500;
+    float: right;
+    grid-column-start: 3;
+    grid-column-end: 4;
+}
+
+.navbar-brand {
+    font-size: 30px !important;
+    float: right;
+}
+
+
+.main {
+    padding: 20px;
+    margin: 10px;
+    background-color: rgba(246, 221, 209, 0.5);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius: 8px;
+}
+
+.caption {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #352016;
+}
+
+
+.title_name {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #352016;
+    padding: 20px;
+    font-size: 800;
+
+}
+
+
+.logo {
+    width: 150px;
+    float: left;
+}
+
